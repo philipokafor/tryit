@@ -1,8 +1,8 @@
 {
   "functions": {
     "api": {
-      "handler": "index.app",
-      "runtime": "python3.8"
+      "runtime": "python3.8",
+      "src": "index.py"
     }
   }
 }
